@@ -403,7 +403,7 @@ header nav .form i:hover {
   border-radius: 50%;
 }
 
-.flex-container {
+/* .flex-container {
   margin-top: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -426,7 +426,7 @@ header nav .form i:hover {
 .flex-container .item p {
   color: rgba(119, 119, 119, 0.521);
   font: size 100%;
-}
+} */
 
 .order {
   margin-top: 20px;
