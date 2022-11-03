@@ -96,7 +96,7 @@ header {
   -ms-transition: 0.4s;
   -o-transition: 0.4s;
 }
-header:hover{
+header:hover {
   background-color: #29977665;
 }
 
@@ -184,7 +184,7 @@ header nav .form i {
   transform: translateY(-50%);
   right: 0%;
 }
-header nav .form i:hover{
+header nav .form i:hover {
   color: var(--main-color);
   cursor: pointer;
 }
@@ -296,10 +296,9 @@ header nav .form i:hover{
   position: relative;
 }
 .video video {
-
   width: 100%;
 }
-.buy{
+.buy {
   display: flex;
   justify-content: space-around;
   /* text-align: center; */
@@ -309,14 +308,14 @@ header nav .form i:hover{
   margin-top: 35px;
 }
 
-.container {
-  /* display: -ms-grid;
+/* .container {
+  display: -ms-grid;
   display:flex;
   place-items: center;
-  /* min-height: 100vh; */
-  /* margin-top: 20px; */ */
+  min-height: 100vh; 
+  margin-top: 20px; 
 
-}
+} */
 
 .card {
   /* position: absolute; */
@@ -330,17 +329,16 @@ header nav .form i:hover{
   -ms-border-radius: 30px;
   -o-border-radius: 30px;
   width: 250px;
-  transition: 0.3s;;
-  -webkit-transition:.3s;
-  -moz-transition:.3s;
-  -ms-transition:.3s;
-  -o-transition:.3s;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
   /* top: 0; */
   display: block;
   margin-top: 30px;
 }
-  .card:hover{  
-
+.card:hover {
   background-color: #add61a;
   scale: 1.1;
 }
@@ -350,7 +348,7 @@ header nav .form i:hover{
     margin-bottom: 20px;
   }
 
-  .container{
+  .container {
     display: flex;
     justify-content: center;
   }
